@@ -1,0 +1,357 @@
+Using pre-set license
+Built from '2023.1/staging' branch; Version is '2023.1.0f1 (a008fa768e6c) revision 10488058'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'ja' Physical Memory: 32525 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.1.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/student/Documents/Github/IslandParty_Group/PartyProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52244
+Successfully changed project path to: C:/Users/student/Documents/Github/IslandParty_Group/PartyProject
+C:/Users/student/Documents/Github/IslandParty_Group/PartyProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [18680] Host "[IP] 10.0.80.129 [Port] 0 [Flags] 2 [Guid] 1549295214 [EditorId] 1549295214 [Version] 1048832 [Id] WindowsEditor(7,OIC-GAME-ROOM229) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [18680] Host "[IP] 10.0.80.129 [Port] 0 [Flags] 2 [Guid] 1549295214 [EditorId] 1549295214 [Version] 1048832 [Id] WindowsEditor(7,OIC-GAME-ROOM229) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 4.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.1.0f1 (a008fa768e6c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.1.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/student/Documents/Github/IslandParty_Group/PartyProject/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2488)
+    Vendor:   NVIDIA
+    VRAM:     8018 MB
+    Driver:   32.0.15.7697
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.1.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.1.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.1.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56024
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001641 seconds.
+- Loaded All Assemblies, in  0.258 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.211 seconds
+Domain Reload Profiling: 468ms
+	BeginReloadAssembly (87ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (103ms)
+		LoadAssemblies (85ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (101ms)
+			TypeCache.Refresh (100ms)
+				TypeCache.ScanAssembly (91ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (211ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (177ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (127ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.490 seconds
+Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.318 seconds
+Domain Reload Profiling: 809ms
+	BeginReloadAssembly (214ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (215ms)
+		LoadAssemblies (179ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (108ms)
+			TypeCache.Refresh (104ms)
+				TypeCache.ScanAssembly (98ms)
+			ScanForSourceGeneratedMonoScriptInfo (2ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (319ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (173ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (44ms)
+			ProcessInitializeOnLoadAttributes (105ms)
+			ProcessInitializeOnLoadMethodAttributes (16ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2824 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 16 unused Assets / (85.3 KB). Loaded Objects now: 3392.
+Memory consumption went from 129.6 MB to 129.5 MB.
+Total: 4.915400 ms (FindLiveObjects: 0.323700 ms CreateObjectMapping: 0.169600 ms MarkObjects: 4.327600 ms  DeleteObjects: 0.092700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 108919.812253 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Terrain/New Terrain.asset
+  artifactKey: Guid(c5b0ed34b80a3a6459a2cb37e0b362f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Terrain/New Terrain.asset using Guid(c5b0ed34b80a3a6459a2cb37e0b362f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e80c1299f18138bba028646e105a3e9d') in 0.016109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000718 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Terrain/Sand.prefab
+  artifactKey: Guid(fe280830eab7af543aa06286102d58b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Terrain/Sand.prefab using Guid(fe280830eab7af543aa06286102d58b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659c4029332fd7c7dfc6861bd943b588') in 0.015211 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Terrain/SandColor.mat
+  artifactKey: Guid(4ef2d04cb0a81d74582f4cd05d5957bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Terrain/SandColor.mat using Guid(4ef2d04cb0a81d74582f4cd05d5957bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7358ef4b650127f6d4fa73277a1905e6') in 0.059085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.506681 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Sky/NormalSkyBox.mat
+  artifactKey: Guid(9a26497078de78b4ba37764f4ee32ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Sky/NormalSkyBox.mat using Guid(9a26497078de78b4ba37764f4ee32ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd90d0a475f0dc1baa3d06d749271a207') in 0.016420 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Sky/SkyBox.blend
+  artifactKey: Guid(5cc673c0693d76244934f6edf856e341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Sky/SkyBox.blend using Guid(5cc673c0693d76244934f6edf856e341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8483ed1c1992d635d1f9a2fb58ef587e') in 0.041108 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.589968 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Gold/Gold_02_diff_4k.jpg
+  artifactKey: Guid(d77b2e88dda9c3347aa1b463de6be6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Gold/Gold_02_diff_4k.jpg using Guid(d77b2e88dda9c3347aa1b463de6be6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '590e7e1bd8c6ec415413efa598739fe3') in 0.028218 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Gold/GoldColor.mat
+  artifactKey: Guid(9a9217852cfb6ae45976aaba01399089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Field/Data/Gold/GoldColor.mat using Guid(9a9217852cfb6ae45976aaba01399089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c426d27cf37edd2f2aba9f62431639d') in 0.035646 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 8.466079 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/Sugoroku_Tutorial/Image/Slide2.jpg
+  artifactKey: Guid(0ef77355714d42841bdf76cfac95b82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/Sugoroku_Tutorial/Image/Slide2.jpg using Guid(0ef77355714d42841bdf76cfac95b82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '559555754789b1c0af87c4085760cc5a') in 0.034727 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 9.733516 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Materials/Barrier_2.mat
+  artifactKey: Guid(186ab97de1fa5264c93f1fe890cdd805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Materials/Barrier_2.mat using Guid(186ab97de1fa5264c93f1fe890cdd805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fccf3464b8cdcd169bd34c07a8f379b1') in 0.021511 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Materials/Barrier_Last.mat
+  artifactKey: Guid(96448693ba9cad44994c1f12cc0a24ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Materials/Barrier_Last.mat using Guid(96448693ba9cad44994c1f12cc0a24ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe37032fc4e57781d3d230e72fd3d0d7') in 0.027600 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Materials/Cell_Swap.mat
+  artifactKey: Guid(abf2312ccc49adb4ba5df2f613fd47d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Materials/Cell_Swap.mat using Guid(abf2312ccc49adb4ba5df2f613fd47d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df47c41c0135beab2c55464f7db0275') in 0.020212 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Materials/Cell_1v3.mat
+  artifactKey: Guid(285da717e4f9ce940b9a3b9b19ccb52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Materials/Cell_1v3.mat using Guid(285da717e4f9ce940b9a3b9b19ccb52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '102b798c2a9ebe649715c8c651ad1379') in 0.021918 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.385599 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Textures/Barrier_3.png
+  artifactKey: Guid(4d958d2f63b0cb54ab2d7f790dc9bc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Textures/Barrier_3.png using Guid(4d958d2f63b0cb54ab2d7f790dc9bc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d0ada8a6bfa2fc21cc1ebc270aef3c') in 0.020418 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Textures/Cell_1v3.png
+  artifactKey: Guid(cc1b828633958ca439e4101827cdc95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Textures/Cell_1v3.png using Guid(cc1b828633958ca439e4101827cdc95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a7bd89f3e38917d39da7020ed8ff48d') in 0.016570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Textures/Cell_DiceBack.png
+  artifactKey: Guid(721de5f1f6433ee4c94bd12675edd014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Textures/Cell_DiceBack.png using Guid(721de5f1f6433ee4c94bd12675edd014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ef3e50a21da4cf27eff4a31d54f7f57') in 0.019776 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Textures/Cell_DiceForward.png
+  artifactKey: Guid(5789d60be40006f478d0d340d7042426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Sugoroku/SugorokuStage/Cell/Textures/Cell_DiceForward.png using Guid(5789d60be40006f478d0d340d7042426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb54ec956a814a0eeaf14ba2a3dd084d') in 0.015269 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.727288 seconds.
+  path: Assets/Scenes/GameScene/MiniGame/SkyBox.blend
+  artifactKey: Guid(5b9ccd1611e8f5d45b26231652f686c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/MiniGame/SkyBox.blend using Guid(5b9ccd1611e8f5d45b26231652f686c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa9aa5484d7e899c8c9fd97e8060a8a') in 0.048053 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 59.809649 seconds.
+  path: Assets/Scenes/GameScene/Dice/Materials/Mat_Gold.mat
+  artifactKey: Guid(b87b5ef5bb44a2e49b4be7f4f8693d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Dice/Materials/Mat_Gold.mat using Guid(b87b5ef5bb44a2e49b4be7f4f8693d10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c90e843ad13cacbc9b6b894af6961eb') in 0.026478 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Scenes/GameScene/Dice/Materials/Mat_YellowExcept.mat
+  artifactKey: Guid(447c059263037814ab16573f2e22a33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Dice/Materials/Mat_YellowExcept.mat using Guid(447c059263037814ab16573f2e22a33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3fdb01d14a8507f13c32618b8955836') in 0.042064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.184559 seconds.
+  path: Assets/Scenes/GameScene/Dice/Textures/Tex_1~6.png
+  artifactKey: Guid(a984f6b971c69954ebb7cdd930a21422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Dice/Textures/Tex_1~6.png using Guid(a984f6b971c69954ebb7cdd930a21422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f670c394d08bbc1b7e95fea1dc9dc1b6') in 0.017388 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Scenes/GameScene/Dice/Textures/Tex_YellowExcept.png
+  artifactKey: Guid(ffa37aa8024a74141a4e7dfd87652a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Dice/Textures/Tex_YellowExcept.png using Guid(ffa37aa8024a74141a4e7dfd87652a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f3821caf699c73b4c133355f589ed0') in 0.028471 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.248592 seconds.
+  path: Assets/Scenes/GameScene/Dice/Prefabs/Dice_Gold.prefab
+  artifactKey: Guid(37f8dd5903dc3a24fb555247e4ce28ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Dice/Prefabs/Dice_Gold.prefab using Guid(37f8dd5903dc3a24fb555247e4ce28ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8637e6db8678dd73b43ff35f9ac2d0') in 0.026901 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Scenes/GameScene/Dice/Prefabs/Dice_RedExcept.prefab
+  artifactKey: Guid(5c815ff73d18ea04f85cce99c1bbc942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene/Dice/Prefabs/Dice_RedExcept.prefab using Guid(5c815ff73d18ea04f85cce99c1bbc942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0464a962673f4df14ee671bdd678e884') in 0.024731 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11

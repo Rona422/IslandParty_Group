@@ -60,13 +60,15 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2023.1.0f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Library\PackageCache\com.unity.inputsystem@1.6.3\Tests\TestFixture\WinUserInput.cs" />
-    <Compile Include="Library\PackageCache\com.unity.inputsystem@1.6.3\Tests\TestFixture\AssemblyInfo.cs" />
-    <Compile Include="Library\PackageCache\com.unity.inputsystem@1.6.3\Tests\TestFixture\InputTestRuntime.cs" />
-    <Compile Include="Library\PackageCache\com.unity.inputsystem@1.6.3\Tests\TestFixture\InputTestFixture.cs" />
+    <Compile Include="Library\PackageCache\com.unity.inputsystem@1.14.1\Tests\TestFixture\WinUserInput.cs" />
+    <Compile Include="Library\PackageCache\com.unity.inputsystem@1.14.1\Tests\TestFixture\AssemblyInfo.cs" />
+    <Compile Include="Library\PackageCache\com.unity.inputsystem@1.14.1\Tests\TestFixture\InputTestRuntime.cs" />
+    <Compile Include="Library\PackageCache\com.unity.inputsystem@1.14.1\Tests\TestFixture\ScopedDisposable.cs" />
+    <Compile Include="Library\PackageCache\com.unity.inputsystem@1.14.1\Tests\TestFixture\InputTestFixture.cs" />
+    <Compile Include="Library\PackageCache\com.unity.inputsystem@1.14.1\Tests\TestFixture\AssetDatabaseUtils.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Library\PackageCache\com.unity.inputsystem@1.6.3\Tests\TestFixture\Unity.InputSystem.TestFramework.asmdef" />
+    <None Include="Library\PackageCache\com.unity.inputsystem@1.14.1\Tests\TestFixture\Unity.InputSystem.TestFramework.asmdef" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

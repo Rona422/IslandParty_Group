@@ -1,34 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\",
+  "WorkspaceRootPath": "C:\\Users\\student\\Documents\\Github\\IslandParty_Group\\PartyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|c:\\users\\etoum\\downloads\\partyproject_8_22_0124\\partyproject\\assets\\scenes\\gamescene\\minigame\\1v1\\meteorpanic_wf\\gamedirector_meteorpanic_1v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gamescene\\minigame\\1v1\\meteorpanic_wf\\gamedirector_meteorpanic_1v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|c:\\users\\etoum\\downloads\\partyproject_8_22_0124\\partyproject\\assets\\scenes\\gamescene\\sugoroku\\sugoroku_playerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gamescene\\sugoroku\\sugoroku_playerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\assets\\scenes\\gamescene\\sugoroku\\sugorokustage\\cell\\scripts\\battle1v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gamescene\\sugoroku\\sugorokustage\\cell\\scripts\\battle1v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|c:\\users\\etoum\\downloads\\partyproject_8_22_0124\\partyproject\\assets\\scenes\\gamescene\\sugoroku\\sugorokustage\\cell\\scripts\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gamescene\\sugoroku\\sugorokustage\\cell\\scripts\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|c:\\users\\etoum\\downloads\\partyproject_8_22_0124\\partyproject\\assets\\scenes\\gamescene\\sugoroku\\sugorokustage\\sugorokustage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gamescene\\sugoroku\\sugorokustage\\sugorokustage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\assets\\scenes\\gamescene\\sugoroku\\sgorokumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gamescene\\sugoroku\\sgorokumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\assets\\scenes\\gamescene\\sugoroku\\camera_sugorokustage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gamescene\\sugoroku\\camera_sugorokustage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|c:\\users\\student\\documents\\github\\islandparty_group\\partyproject\\assets\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694B6444-7DFE-A405-832B-1EEF1E40EA8F}|Assembly-CSharp.csproj|solutionrelative:assets\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,91 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameDirector_MeteorPanic_1v1.cs",
-              "DocumentMoniker": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\MiniGame\\1v1\\MeteorPanic_WF\\GameDirector_MeteorPanic_1v1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\GameScene\\MiniGame\\1v1\\MeteorPanic_WF\\GameDirector_MeteorPanic_1v1.cs",
-              "ToolTip": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\MiniGame\\1v1\\MeteorPanic_WF\\GameDirector_MeteorPanic_1v1.cs",
-              "RelativeToolTip": "Assets\\Scenes\\GameScene\\MiniGame\\1v1\\MeteorPanic_WF\\GameDirector_MeteorPanic_1v1.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAYwDoAAAAWAAAAAAAAAA==",
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Documents\\Github\\IslandParty_Group\\PartyProject\\Assets\\Audio\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Audio\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\student\\Documents\\Github\\IslandParty_Group\\PartyProject\\Assets\\Audio\\AudioManager.cs*",
+              "RelativeToolTip": "Assets\\Audio\\AudioManager.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T20:35:43.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cell.cs",
-              "DocumentMoniker": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\Cell\\Scripts\\Cell.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\Cell\\Scripts\\Cell.cs",
-              "ToolTip": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\Cell\\Scripts\\Cell.cs",
-              "RelativeToolTip": "Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\Cell\\Scripts\\Cell.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T20:05:31.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SugorokuStage.cs",
-              "DocumentMoniker": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\SugorokuStage.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\SugorokuStage.cs",
-              "ToolTip": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\SugorokuStage.cs",
-              "RelativeToolTip": "Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\SugorokuStage.cs",
-              "ViewState": "AgIAAOYAAAAAAAAAAAAmwO0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T20:02:12.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sugoroku_PlayerBase.cs",
-              "DocumentMoniker": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\Sugoroku_PlayerBase.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\GameScene\\Sugoroku\\Sugoroku_PlayerBase.cs",
-              "ToolTip": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\Sugoroku_PlayerBase.cs",
-              "RelativeToolTip": "Assets\\Scenes\\GameScene\\Sugoroku\\Sugoroku_PlayerBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T19:57:05.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Battle1v1.cs",
-              "DocumentMoniker": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\Cell\\Scripts\\Battle1v1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\Cell\\Scripts\\Battle1v1.cs",
-              "ToolTip": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\Cell\\Scripts\\Battle1v1.cs",
-              "RelativeToolTip": "Assets\\Scenes\\GameScene\\Sugoroku\\SugorokuStage\\Cell\\Scripts\\Battle1v1.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAhwHoAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T19:56:17.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Camera_SugorokuStage.cs",
-              "DocumentMoniker": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\Camera_SugorokuStage.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\GameScene\\Sugoroku\\Camera_SugorokuStage.cs",
-              "ToolTip": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\Camera_SugorokuStage.cs",
-              "RelativeToolTip": "Assets\\Scenes\\GameScene\\Sugoroku\\Camera_SugorokuStage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T06:03:16.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SgorokuManager.cs",
-              "DocumentMoniker": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\SgorokuManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\GameScene\\Sugoroku\\SgorokuManager.cs",
-              "ToolTip": "C:\\Users\\etoum\\Downloads\\PartyProject_8_22_0124\\PartyProject\\Assets\\Scenes\\GameScene\\Sugoroku\\SgorokuManager.cs",
-              "RelativeToolTip": "Assets\\Scenes\\GameScene\\Sugoroku\\SgorokuManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:43:48.379Z",
+              "WhenOpened": "2025-10-10T05:59:13.141Z",
               "EditorCaption": ""
             }
           ]
