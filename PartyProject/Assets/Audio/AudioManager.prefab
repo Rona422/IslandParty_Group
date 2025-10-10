@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2869711073438303845
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6478457688245482117}
+  - component: {fileID: 8569004563103336028}
+  - component: {fileID: 7288730562382380609}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6478457688245482117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2869711073438303845}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8569004563103336028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2869711073438303845}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2a512b9518603c4790fefc9f92ddd92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SeClipsByField:
+  - m_Filde: Sugoroku
+    m_Clips:
+    - m_Clip: {fileID: 8300000, guid: fff8cc78ca4e50f49bf464ba65fa8655, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 05e357b2c30a6904782d4ec7dd1921bd, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: c7cda3738c12d6248929031ca7350634, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: cf4e9872b7783364ca42da271eb855af, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 8344f7cddd8126f4aa15485d9ab18cbb, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 2c043f3df6a94894f97e2688659f95de, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: ba9de28d926e62546b9a7e30aecd82a4, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: aa41944077574284e84ef3d84a82a513, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 7a6ac920e42a12a4d82416fb3977dee7, type: 3}
+      m_Volume: 1
+  - m_Filde: SugorokuEvent
+    m_Clips:
+    - m_Clip: {fileID: 8300000, guid: a7ec9057e9238b14c961baa4c95d482e, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 2617453b24156154699c4b5dc6ae8262, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: eeb50331d95908f43b2807052b9862a8, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 4206e574997b19e4ca93d6f6061a96e5, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 1e6c73e8cca289b42b9c3369ba9710c8, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 7eb27bbcbc2b6f34e82ef58f619607ac, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 4dc64bb58c5a1f44abc3231125bea8f2, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 352ffc0273fc6fd4caeb0d0b2d795a23, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 59ccd1080bd56fc49ab517b08ce52e53, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 2f3c1b7ba51beb8428f21334c94f7a16, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 0d5e96da7bd067b47899de205b228d36, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: e0a1efa14a6ab3541bc599262e91d4bc, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: 40cc4cd5779d3624e9735148da47ae8e, type: 3}
+      m_Volume: 1
+  - m_Filde: Player
+    m_Clips:
+    - m_Clip: {fileID: 8300000, guid: 097fc315cce4b274e822f6b72f771609, type: 3}
+      m_Volume: 0.3
+    - m_Clip: {fileID: 8300000, guid: 89a3c30c34bcacc48848be722348359f, type: 3}
+      m_Volume: 1
+    - m_Clip: {fileID: 8300000, guid: d9b692cd2ccc5e04ea92beef94a57b67, type: 3}
+      m_Volume: 1
+  - m_Filde: Title
+    m_Clips:
+    - m_Clip: {fileID: 8300000, guid: f202c76e7b58cfa4b80f44a914c63c87, type: 3}
+      m_Volume: 10
+  m_BgmClipsByField:
+  - m_Filde: Title
+    m_Clips:
+    - m_Clip: {fileID: 8300000, guid: 5bf46ab1446407f4a8d23f78fe36486a, type: 3}
+      m_Volume: 0.3
+  - m_Filde: Sugoroku
+    m_Clips:
+    - m_Clip: {fileID: 8300000, guid: 220862cb2faf4e949974d085bf3222f5, type: 3}
+      m_Volume: 0.3
+    - m_Clip: {fileID: 8300000, guid: f35d58a0e9d720944b7d3371046ded81, type: 3}
+      m_Volume: 0.3
+--- !u!114 &7288730562382380609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2869711073438303845}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: befa09b6770e683479ad44017f0813cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
